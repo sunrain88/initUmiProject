@@ -1,15 +1,21 @@
-# umi project
+# # 项目介绍
 
-## Getting Started
+ 本项目为一个umi + react初始化项目，已搭建好基础的项目架构，对ajax请求做好了基础的统一处理，配置了代码检查和格式化处理工具，分离了开发，测试，生产环境的配置文件（都只做了基础的配置，有具体的需要可以自己更改拓展）
 
-Install dependencies,
+# 启动项目
+
+## 下载依赖
 
 ```bash
 $ yarn
 ```
 
-Start the dev server,
+## 开启本地服务
 
 ```bash
 $ yarn start
 ```
+
+# 项目文档
+
+ 更具体的项目开发文档在根路径的document文件夹下，主要包括项目开发规范，项目介绍，项目交接等文档
